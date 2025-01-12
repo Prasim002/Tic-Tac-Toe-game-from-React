@@ -1,0 +1,16 @@
+button.square{
+    outline: none;
+    position: relative;
+    border: 1px solid;
+    border-radius: 0px;
+    height: 50px;
+    width: 50px;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+div.row{
+    margin-bottom: -3px;
+    padding: 0px;
+}
+
